@@ -10,4 +10,4 @@ result = 0
 
 for k in rect:
     result += k.count(1)
-print(result)www
+print(result)
